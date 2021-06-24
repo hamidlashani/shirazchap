@@ -1,0 +1,16 @@
+{
+    "name": "Largeformats",
+    "alias": "largeformats",
+    "model": "Modules\\Largeformats\\Entities\\Largeformat",
+    "icon-base": "nav-icon icon-list-alt",
+
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Largeformats\\Providers\\LargeformatsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

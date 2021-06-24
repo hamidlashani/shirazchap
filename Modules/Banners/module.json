@@ -1,0 +1,15 @@
+{
+    "name": "Banners",
+    "alias": "banners",
+    "model": "Modules\\Banners\\Entities\\Banner",
+    "icon-base": "nav-icon icon-list-alt",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Banners\\Providers\\BannersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

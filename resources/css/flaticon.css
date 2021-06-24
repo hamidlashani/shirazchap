@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'flaticon';
+    src: url('./flaticon.eot?oyqolm');
+    src: url('./flaticon.eot?oyqolm#iefix') format('embedded-opentype'),
+    url('./flaticon.ttf?oyqolm') format('truetype'),
+    url('./flaticon.woff?oyqolm') format('woff'),
+    url('./flaticon.svg?oyqolm#flaticon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "flaticon";
+        src: url("./flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"], [class*=" flaticon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'flaticon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-android:before {
+    content: "\e900";
+}
+.flaticon-android2:before {
+    content: "\e901";
+    color: #aac148;
+}
+.flaticon-aparat:before {
+    content: "\e902";
+}
+.flaticon-arrows:before {
+    content: "\e903";
+}
+.flaticon-art:before {
+    content: "\e904";
+}
+.flaticon-back:before {
+    content: "\e905";
+}
+.flaticon-basket:before {
+    content: "\e906";
+}
+.flaticon-cancel:before {
+    content: "\e907";
+}
+.flaticon-close:before {
+    content: "\e908";
+}
+.flaticon-close-1:before {
+    content: "\e909";
+}
+.flaticon-computing-cloud:before {
+    content: "\e90a";
+}
+.flaticon-delivery:before {
+    content: "\e90b";
+}
+.flaticon-enter:before {
+    content: "\e90c";
+}
+.flaticon-facebook:before {
+    content: "\e90d";
+    color: #475993;
+}
+.flaticon-forever:before {
+    content: "\e90e";
+}
+.flaticon-google-plus:before {
+    content: "\e90f";
+    color: #f34a38;
+}
+.flaticon-grid:before {
+    content: "\e910";
+}
+.flaticon-headset:before {
+    content: "\e911";
+}
+.flaticon-home-1:before {
+    content: "\e912";
+}
+.flaticon-home-2:before {
+    content: "\e913";
+}
+.flaticon-home-3:before {
+    content: "\e914";
+}
+.flaticon-information:before {
+    content: "\e915";
+}
+.flaticon-instagram .path1:before {
+    content: "\e916";
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path2:before {
+    content: "\e917";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path3:before {
+    content: "\e918";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path4:before {
+    content: "\e919";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path5:before {
+    content: "\e91a";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path6:before {
+    content: "\e91b";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path7:before {
+    content: "\e91c";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path8:before {
+    content: "\e91d";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-instagram .path9:before {
+    content: "\e91e";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.flaticon-instagram .path10:before {
+    content: "\e91f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.flaticon-instagram .path11:before {
+    content: "\e920";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.flaticon-linkedin:before {
+    content: "\e921";
+    color: #0077b7;
+}
+.flaticon-list:before {
+    content: "\e922";
+}
+.flaticon-logout:before {
+    content: "\e923";
+}
+.flaticon-menu:before {
+    content: "\e924";
+}
+.flaticon-menu-1:before {
+    content: "\e925";
+}
+.flaticon-next:before {
+    content: "\e926";
+}
+.flaticon-pay:before {
+    content: "\e927";
+}
+.flaticon-phone-call:before {
+    content: "\e928";
+}
+.flaticon-phone-call-1:before {
+    content: "\e929";
+}
+.flaticon-photo:before {
+    content: "\e92a";
+}
+.flaticon-printer:before {
+    content: "\e92b";
+}
+.flaticon-printing:before {
+    content: "\e92c";
+}
+.flaticon-right-arrow:before {
+    content: "\e92d";
+}
+.flaticon-tap:before {
+    content: "\e92e";
+}
+.flaticon-telegram:before {
+    content: "\e92f";
+    color: #039be5;
+}
+.flaticon-twitter:before {
+    content: "\e930";
+    color: #76a9ea;
+}
+.flaticon-up-arrow:before {
+    content: "\e931";
+}
+.flaticon-upload:before {
+    content: "\e932";
+}
+.flaticon-whatsapp:before {
+    content: "\e933";
+    color: #7ad06d;
+}
+.flaticon-whatsapp2:before {
+    content: "\e934";
+}

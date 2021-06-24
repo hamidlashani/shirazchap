@@ -1,0 +1,19 @@
+{
+    "name": "Article",
+    "alias": "مدیریت مقالات",
+    "description": "",
+    "image": "img/blog.png",
+    "model": "Modules\\Article\\Entities\\Article",
+
+    "icon-base": "icon-list-alt",
+    "icon-list": "i-File-Clipboard-File--Text",
+    "icon-create": "i-File-Clipboard-File--Text",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Article\\Providers\\ArticleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

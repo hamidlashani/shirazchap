@@ -1,0 +1,15 @@
+{
+    "name": "Module",
+    "alias": "مدیریت ماژول ها",
+    "image": "img/Module.png",
+    "icon-base": "icon-windows",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Module\\Providers\\ModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

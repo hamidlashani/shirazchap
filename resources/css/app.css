@@ -1,0 +1,95 @@
+
+.modal-galley-category-id{
+    height: unset !important;
+}
+.modal-galley-category-id .inner_p {
+
+    padding-right: 10px !important;
+}
+.swal-icon--warning {
+    -webkit-animation: none !important;
+    animation: none !important;
+}
+.enter_basket_button:disabled {
+    color: #ebebeb !important;
+    border-color: #ebebeb !important;
+}
+.editavatar {
+    position: absolute;
+    top: 20%;
+    right: 25%;
+}
+#secondMenu .MenuMainUl.mainUl .mainParts > .MenuMainUl .MenuMainUlli > a.MenuListLiA, #MenuV2 .MenuMainUl.mainUl .mainParts > .MenuMainUl .MenuMainUlli > a.MenuListLiA {
+
+    width: 100%;
+    display: block;
+}
+#AFHeader #secondMenu, #AFHeader #MenuV2 {
+    position: static;
+    transform: none;
+    list-style: none;
+}
+.shop_table th,.shop_table td{
+    text-align: center;
+    font-family:iransans-num;
+}
+.pag-link {
+    font-family:iransans-num;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px;
+}
+.pag-link.disabled > span,
+.pag-link.current > span,
+.pag-link > a{
+    display: block;
+    border-radius: 50%;
+    font-size: 16px;
+    line-height: 1.42857;
+    margin-right: 5px;
+    padding: 10px 17px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.pag-link:active > a,
+.pag-link:hover > a,
+.pag-link:focus > a,
+.pag-link.current > span{
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.pag-link > a{
+    background-color: #7f4189;
+    color: #fff;
+    cursor: pointer;
+}
+.pag-link.disabled > span,
+.pag-link.current > span{
+    background-color: #13b3bc;
+    color: #fff;
+    cursor: inherit;
+}
+.pag-link:active > a,
+.pag-link:hover > a,
+.pag-link:focus > a {
+    background-color: #ec217c !important;
+    border-color: #ec217c;
+    color: #fff;
+}
+.swal2-modal {
+    width: 500px;
+    padding: 20px;
+    margin-left: 0 !important;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+    margin-top: 0 !important;
+    position: absolute;
+    margin: 0 auto !important;
+    left: 38%;
+    text-align: center;
+}

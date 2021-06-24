@@ -1,0 +1,15 @@
+{
+    "name": "Category",
+    "alias": "category",
+    "icon-base": "nav-icon icon-list-alt",
+
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Category\\Providers\\CategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

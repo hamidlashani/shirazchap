@@ -1,0 +1,17 @@
+{
+    "name": "Printingoffice",
+    "alias": "printingoffice",
+    "description": "",
+    "image": "img/blog.png",
+    "icon-base": "icon-list-alt",
+    "icon-list": "i-File-Clipboard-File--Text",
+    "icon-create": "i-File-Clipboard-File--Text",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Printingoffice\\Providers\\PrintingofficeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

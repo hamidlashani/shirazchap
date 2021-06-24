@@ -1,0 +1,17 @@
+{
+    "name": "User",
+    "alias": "مدیریت کاربران",
+    "image": "img/user.png",
+    "icon-base": "i-Administrator",
+    "icon-list": "i-Find-User",
+    "icon-create": "i-Add-User",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\User\\Providers\\UserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Cards",
+    "alias": "cards",
+    "model": "Modules\\Cards\\Entities\\Card",
+    "icon-base": "nav-icon icon-print",
+
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Cards\\Providers\\CardsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

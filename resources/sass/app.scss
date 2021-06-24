@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+.modal-header .modal-title {
+  float: right;
+  color: black !important;
+  text-align: center;
+  width: 100%;
+}
+
+@import '~bootstrap/scss/bootstrap';
+@import 'css/flaticon.css';
+@import 'css/main.css';
+@import "css/mains.css";
+@import "css/master.css";
+@import "css/flipclock.css";
+@import "css/fontawsome.css";
+@import "css/style.main.min.css";
+@import "css/rtl.css";
+@import "css/style.css";
+@import "css/chap-rtl.css";
+@import "css/gridStyle.css";
+@import "css/app.css";
+
+
+
+body {
+  font-family: iransans,opensans;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #212529;
+  text-align: left;
+}
+

@@ -1,0 +1,10 @@
+require('./bootstrap');
+require('./web/jquery');
+require('./web/main');
+require('./web/popper.min');
+require('./web/lightgallery.min');
+require('./web/main2');
+//require('./web/lib.min');
+require('./web/slider.min');
+require('./web/flipclock.min');
+require('./web/main.min');

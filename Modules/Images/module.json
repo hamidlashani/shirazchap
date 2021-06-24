@@ -1,0 +1,16 @@
+{
+    "name": "Images",
+    "alias": "images",
+    "model": "Modules\\Images\\Entities\\images",
+    "icon-base": "nav-icon icon-list-alt",
+
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Images\\Providers\\ImagesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

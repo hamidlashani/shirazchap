@@ -1,0 +1,94 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__lashani_website_c2977_83d33_1629613419_6f7dca366d8d6979eb0b5b6da890bd22: 
+      created: '1621841018'
+      domains: 
+        - "*.lashani.website"
+        - lashani.website
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “lashani.website” 1621841018.0
+      id: _wildcard__lashani_website_c2977_83d33_1629613419_6f7dca366d8d6979eb0b5b6da890bd22
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c2977fc0a95a46146cb19478a686389e4064cdef5204a3497e8dbf525de40d96497a3916086d210d4c7e9b9a26f1cb658945559c878d2b498b1f16f2f78cae5d2f41777d9a83595dd259d95ea307c4eed37ce6f4ea82bdcd02933a67287efe4f06cf75b68b0e6011a0f17f0765b0f07b8cde805ed5e2cc49fd6bd60cfa750669b9bae144ceedc5a3c783b1a8305c46d217cd6241b3f162b6aea64328e62a0f155502fbcc44ccfd42b03ce8a3b289fbfc7c5949fef1abfee86b90f8cf60a2e39c73238b1efda47725890e48f57f41f6c6903d95ec15c796c0945e3d9e9309c0ff58fbd2529c0810deb26c676074ed310e3ffe2b59974f3c9372e91775cef83d33
+      modulus_length: 2048
+      not_after: '1629613419'
+      not_before: '1621837419'
+      serial: 03fe99543962cca471812e14d13eee17b7ea
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.lashani.website"
+      validation_type: dv
+    lashani_website_a8ce3_f371f_1653376698_b7b77d616183b006c878bdb88e075945: 
+      created: '1621840698'
+      domains: 
+        - lashani.website
+        - mail.lashani.website
+        - www.lashani.website
+        - cpanel.lashani.website
+        - webmail.lashani.website
+        - webdisk.lashani.website
+        - cpcontacts.lashani.website
+        - cpcalendars.lashani.website
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “lashani.website”
+      id: lashani_website_a8ce3_f371f_1653376698_b7b77d616183b006c878bdb88e075945
+      is_self_signed: 1
+      issuer.commonName: lashani.website
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: a8ce3daee75f1a7f228cf22b5002f4e0bb95333dc882734c4d67bdfa3beb21434ed3924bf7010cad1bafc4b63590b143a5113f5af6b8c95ab93e4d96ac52def785510b622b0aa34103d254cf03a5c8c544a1fb098f1baa23ace9e0d5ab8a2daf3b1c0d29130168a29264089ef5e24b6809736bef3e44ec2850373a506891c313152bb7b8e0d9b03fe10cde641fee6fc01435e54aff511bb22a1f042bf002e3389d881dba0f15a1876963c8cea779c264c3a6d3b80b8f00a189da249dabcc0e4adca19f78b7217df17dfeec02d2dce33600b22d4aeb202b86aeff4ffbbd60d8258f9e5cee936b972d49d7f48d0da3bcefc24a96fbad1c64a43cdab6d0cc7f371f
+      modulus_length: 2048
+      not_after: '1653376698'
+      not_before: '1621840698'
+      serial: 010036bd70
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: lashani.website
+      validation_type: ~
+  key: 
+    a8ce3_f371f_9baacff9abb9ca61ffdf8bfbd58698ae: 
+      created: '1621840698'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “lashani.website”
+      id: a8ce3_f371f_9baacff9abb9ca61ffdf8bfbd58698ae
+      key_algorithm: rsaEncryption
+      modulus: a8ce3daee75f1a7f228cf22b5002f4e0bb95333dc882734c4d67bdfa3beb21434ed3924bf7010cad1bafc4b63590b143a5113f5af6b8c95ab93e4d96ac52def785510b622b0aa34103d254cf03a5c8c544a1fb098f1baa23ace9e0d5ab8a2daf3b1c0d29130168a29264089ef5e24b6809736bef3e44ec2850373a506891c313152bb7b8e0d9b03fe10cde641fee6fc01435e54aff511bb22a1f042bf002e3389d881dba0f15a1876963c8cea779c264c3a6d3b80b8f00a189da249dabcc0e4adca19f78b7217df17dfeec02d2dce33600b22d4aeb202b86aeff4ffbbd60d8258f9e5cee936b972d49d7f48d0da3bcefc24a96fbad1c64a43cdab6d0cc7f371f
+      modulus_length: 2048
+    c2977_83d33_80d6513750de16cd15f108dfb7099d04: 
+      created: '1621841018'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “lashani.website” 1621841018.0
+      id: c2977_83d33_80d6513750de16cd15f108dfb7099d04
+      key_algorithm: rsaEncryption
+      modulus: c2977fc0a95a46146cb19478a686389e4064cdef5204a3497e8dbf525de40d96497a3916086d210d4c7e9b9a26f1cb658945559c878d2b498b1f16f2f78cae5d2f41777d9a83595dd259d95ea307c4eed37ce6f4ea82bdcd02933a67287efe4f06cf75b68b0e6011a0f17f0765b0f07b8cde805ed5e2cc49fd6bd60cfa750669b9bae144ceedc5a3c783b1a8305c46d217cd6241b3f162b6aea64328e62a0f155502fbcc44ccfd42b03ce8a3b289fbfc7c5949fef1abfee86b90f8cf60a2e39c73238b1efda47725890e48f57f41f6c6903d95ec15c796c0945e3d9e9309c0ff58fbd2529c0810deb26c676074ed310e3ffe2b59974f3c9372e91775cef83d33
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a8ce3daee75f1a7f228cf22b5002f4e0bb95333dc882734c4d67bdfa3beb21434ed3924bf7010cad1bafc4b63590b143a5113f5af6b8c95ab93e4d96ac52def785510b622b0aa34103d254cf03a5c8c544a1fb098f1baa23ace9e0d5ab8a2daf3b1c0d29130168a29264089ef5e24b6809736bef3e44ec2850373a506891c313152bb7b8e0d9b03fe10cde641fee6fc01435e54aff511bb22a1f042bf002e3389d881dba0f15a1876963c8cea779c264c3a6d3b80b8f00a189da249dabcc0e4adca19f78b7217df17dfeec02d2dce33600b22d4aeb202b86aeff4ffbbd60d8258f9e5cee936b972d49d7f48d0da3bcefc24a96fbad1c64a43cdab6d0cc7f371f: 
+        lashani_website_a8ce3_f371f_1653376698_b7b77d616183b006c878bdb88e075945: ~
+      c2977fc0a95a46146cb19478a686389e4064cdef5204a3497e8dbf525de40d96497a3916086d210d4c7e9b9a26f1cb658945559c878d2b498b1f16f2f78cae5d2f41777d9a83595dd259d95ea307c4eed37ce6f4ea82bdcd02933a67287efe4f06cf75b68b0e6011a0f17f0765b0f07b8cde805ed5e2cc49fd6bd60cfa750669b9bae144ceedc5a3c783b1a8305c46d217cd6241b3f162b6aea64328e62a0f155502fbcc44ccfd42b03ce8a3b289fbfc7c5949fef1abfee86b90f8cf60a2e39c73238b1efda47725890e48f57f41f6c6903d95ec15c796c0945e3d9e9309c0ff58fbd2529c0810deb26c676074ed310e3ffe2b59974f3c9372e91775cef83d33: 
+        _wildcard__lashani_website_c2977_83d33_1629613419_6f7dca366d8d6979eb0b5b6da890bd22: ~
+    subject.commonName: 
+      "*.lashani.website": 
+        _wildcard__lashani_website_c2977_83d33_1629613419_6f7dca366d8d6979eb0b5b6da890bd22: ~
+      lashani.website: 
+        lashani_website_a8ce3_f371f_1653376698_b7b77d616183b006c878bdb88e075945: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “lashani.website”: lashani_website_a8ce3_f371f_1653376698_b7b77d616183b006c878bdb88e075945
+      Cert for “lashani.website” 1621841018.0: _wildcard__lashani_website_c2977_83d33_1629613419_6f7dca366d8d6979eb0b5b6da890bd22
+  key: 
+    friendly_name: 
+      Key for “lashani.website”: a8ce3_f371f_9baacff9abb9ca61ffdf8bfbd58698ae
+      Key for “lashani.website” 1621841018.0: c2977_83d33_80d6513750de16cd15f108dfb7099d04
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      a8ce3daee75f1a7f228cf22b5002f4e0bb95333dc882734c4d67bdfa3beb21434ed3924bf7010cad1bafc4b63590b143a5113f5af6b8c95ab93e4d96ac52def785510b622b0aa34103d254cf03a5c8c544a1fb098f1baa23ace9e0d5ab8a2daf3b1c0d29130168a29264089ef5e24b6809736bef3e44ec2850373a506891c313152bb7b8e0d9b03fe10cde641fee6fc01435e54aff511bb22a1f042bf002e3389d881dba0f15a1876963c8cea779c264c3a6d3b80b8f00a189da249dabcc0e4adca19f78b7217df17dfeec02d2dce33600b22d4aeb202b86aeff4ffbbd60d8258f9e5cee936b972d49d7f48d0da3bcefc24a96fbad1c64a43cdab6d0cc7f371f: a8ce3_f371f_9baacff9abb9ca61ffdf8bfbd58698ae
+      c2977fc0a95a46146cb19478a686389e4064cdef5204a3497e8dbf525de40d96497a3916086d210d4c7e9b9a26f1cb658945559c878d2b498b1f16f2f78cae5d2f41777d9a83595dd259d95ea307c4eed37ce6f4ea82bdcd02933a67287efe4f06cf75b68b0e6011a0f17f0765b0f07b8cde805ed5e2cc49fd6bd60cfa750669b9bae144ceedc5a3c783b1a8305c46d217cd6241b3f162b6aea64328e62a0f155502fbcc44ccfd42b03ce8a3b289fbfc7c5949fef1abfee86b90f8cf60a2e39c73238b1efda47725890e48f57f41f6c6903d95ec15c796c0945e3d9e9309c0ff58fbd2529c0810deb26c676074ed310e3ffe2b59974f3c9372e91775cef83d33: c2977_83d33_80d6513750de16cd15f108dfb7099d04
